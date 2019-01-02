@@ -29,6 +29,7 @@ Pipeline is specifically designed for lanes with clear lane markings and good su
 Issue due to varying sunlight can be solved by implementing HSL/HSV filter at the beginning of the pipeline. It should be noted, the system fails in poor lighting conditions.
 
 It can only be used in plains, needs to be tuned for the hilly roads. We can improve the curved line detection using deep learning and neural networks
+<br>
+> Best regards, 
+> Vman
 
-Best regards,
-Vman
